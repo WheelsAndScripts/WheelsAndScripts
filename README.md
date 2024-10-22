@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, I'm [Your Name]!</h1>
+<h1 align="center">👋 Hi, I'm Yasmine BAGTACHE!</h1>
 <p align="center">
   <em>Data Scientist | Machine Learning Enthusiast | AI Explorer</em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/yasmine-bagtache">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:bagtacheyasmine@yahoo.fr">
     <img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -16,7 +16,7 @@
 
 ### 🚀 About Me
 - 🎓 Graduated as a **Software Engineer** specialized in **Artificial Intelligence** and **Data Science**.
-- 🌱 Currently improving my skills in **Data Engineering** and exploring **Big Data Technologies**.
+- 🌱 Currently improving my skills in **Data Visualization** and exploring **Big Data Technologies**.
 - 💻 I love solving problems using **Machine Learning**, **Deep Learning**, and **NLP**.
 
 ---
@@ -64,4 +64,4 @@
 ---
 
 ### ⚡ Fun Fact
-- When I'm not coding, you'll find me **rollerblading** or hiking in the mountains! 🛼🏞️
+- When I'm not coding, you'll find me **rollerblading** or **hiking** in the mountains! 🛼🏞️
