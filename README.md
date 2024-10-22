@@ -43,17 +43,17 @@
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas" /> 
   <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
 
-- **[Project 2](https://github.com/PhylibhertBINGLEY/medical-conversation-classifier)**: <em>Short description of the project and the technologies used</em>
+- **[Project 2](https://github.com/PhylibhertBINGLEY/medical-conversation-classifier)**: <em>Short description of the project and the technologies used</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> 
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD700?style=flat&logo=hugging-face&logoColor=black" />
+  <img src="https://img.shields.io/badge/-BERT-4682B4?style=flat" />
 
-- **[Project 3](https://github.com/PhylibhertBINGLEY/IMX_Final_project)**: <em>Short description of the project and the technologies used</em>
+- **[Project 3](https://github.com/PhylibhertBINGLEY/IMX_Final_project)**: <em>Short description of the project and the technologies used</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
 
-- **[Project 4](https://github.com/PhylibhertBINGLEY/machine-learning-gp-svm)**: <em>Short description of the project and the technologies used</em>
+- **[Project 4](https://github.com/PhylibhertBINGLEY/machine-learning-gp-svm)**: <em>Short description of the project and the technologies used</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
 
 ---
