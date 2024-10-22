@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Yasmine BAGTACHE!</h1>
+<h1 align="center">🦋 Hi, I'm Yasmine BAGTACHE!</h1>
 <p align="center">
   <em>Data Scientist | Machine Learning Enthusiast | AI Explorer</em>
 </p>
