@@ -44,11 +44,11 @@
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Bioinformatics-008B8B?style=flat&logo=dna&logoColor=white" />
 
-- **[Project 2](https://github.com/PhylibhertBINGLEY/medical-conversation-classifier)**: <em>Short description of the project and the technologies used</em>  
+- **[Medical Conversation Classifier](https://github.com/PhylibhertBINGLEY/medical-conversation-classifier)**: <em>This project uses Natural Language Processing (NLP) to analyze doctor-patient conversations, with the goal of predicting classes from the doctor's speech.</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> 
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Hugging%20Face-FFD700?style=flat&logo=hugging-face&logoColor=black" />
-  <img src="https://img.shields.io/badge/-BERT-4682B4?style=flat" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Transformers-FFDA79?style=flat&logo=hugging-face&logoColor=black" />
 
 - **[Project 3](https://github.com/PhylibhertBINGLEY/IMX_Final_project)**: <em>Short description of the project and the technologies used</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
