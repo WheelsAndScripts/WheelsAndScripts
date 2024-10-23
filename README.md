@@ -38,10 +38,11 @@
 
 ### 📊 Projects
 
-- **[Project 1](https://github.com/PhylibhertBINGLEY/biomedical-data-mining)**: <em>Short description of the project and the technologies used</em>  
+- **[Biomedical Data Mining Project](https://github.com/PhylibhertBINGLEY/biomedical-data-mining)**: <em>Project that aims to identify groups of genes that exhibit similar expression patterns within an RNA sequence of Saccharomyces cerevisiae (a species of yeast).</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> 
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas" /> 
-  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bioinformatics-008B8B?style=flat&logo=dna&logoColor=white" />
 
 - **[Project 2](https://github.com/PhylibhertBINGLEY/medical-conversation-classifier)**: <em>Short description of the project and the technologies used</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> 
