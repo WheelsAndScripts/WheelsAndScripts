@@ -58,8 +58,8 @@
 
 - **[Gaussian Process & SVM](https://github.com/PhylibhertBINGLEY/machine-learning-gp-svm)**: <em>This project involves implementing Gaussian Process regression to predict function distributions and using SVM models for classifying hand-written digits (0-4) as part of a machine learning course.</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib" />
   <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/-LibSVM-4B0082?style=flat&logo=python&logoColor=white" />
 
