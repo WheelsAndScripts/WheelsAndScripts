@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/-CycleGAN-2F4F4F?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-U%5E2%20Net-8A2BE2?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-U%52%20Net-8A2BE2?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-YOLO%20Ultralytics-00FFFF?style=flat&logo=python&logoColor=black" />
 
 - **[Project 4](https://github.com/PhylibhertBINGLEY/machine-learning-gp-svm)**: <em>Short description of the project and the technologies used</em>  
