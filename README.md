@@ -56,8 +56,13 @@
   [![U2 Net](https://img.shields.io/badge/-U2%20Net-8A2BE2?style=flat&logo=github&logoColor=white)](https://github.com/nikhilroxtomar/U2-Net-for-Image-Matting-in-TensorFlow)
   [![CycleGAN](https://img.shields.io/badge/-CycleGAN-2F4F4F?style=flat&logo=github&logoColor=white)](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 
-- **[Project 4](https://github.com/PhylibhertBINGLEY/machine-learning-gp-svm)**: <em>Short description of the project and the technologies used</em>  
+- **[Gaussian Process & SVM](https://github.com/PhylibhertBINGLEY/machine-learning-gp-svm)**: <em>This project involves implementing Gaussian Process regression to predict function distributions and using SVM models for classifying hand-written digits (0-4) as part of a machine learning course.</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LibSVM-4B0082?style=flat&logo=python&logoColor=white" />
+
 
 ---
 
