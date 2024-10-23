@@ -84,6 +84,8 @@
 
 - 🇫🇷 French (Native)
 - 🇬🇧 English (Fluent)
+- 🇸🇦 Arabic (Intermediate)
+- 🇩🇪 German (Intermediate)
 - 🇨🇳 Chinese (Beginner)
 
 ---
