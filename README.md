@@ -53,6 +53,7 @@
 - **[Image Manipulation](https://github.com/PhylibhertBINGLEY/IMX_Final_project)**: <em>An image manipulation project to perform style transfer using cycleGAN paper.</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  [![U2 Net](https://img.shields.io/badge/-U2%20Net-8A2BE2?style=flat&logo=github&logoColor=white)](https://github.com/nikhilroxtomar/U2-Net-for-Image-Matting)
   <img src="https://img.shields.io/badge/-CycleGAN-2F4F4F?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-U2%20Net-8A2BE2?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-YOLO%20Ultralytics-00FFFF?style=flat&logo=python&logoColor=black" />
