@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> 
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas" /> 
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bioinformatics-008B8B?style=flat&logo=dna&logoColor=white" />
 
 - **[Medical Conversation Classifier](https://github.com/PhylibhertBINGLEY/medical-conversation-classifier)**: <em>This project uses Natural Language Processing (NLP) to analyze doctor-patient conversations, with the goal of predicting classes from the doctor's speech.</em>  
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" /> 
