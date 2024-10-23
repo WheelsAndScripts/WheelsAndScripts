@@ -63,7 +63,7 @@
   <img src="https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white" />
   <img src="https://img.shields.io/badge/-LibSVM-4B0082?style=flat&logo=python&logoColor=white" />
 
-- **[Pokedex Web App](https://github.com/PhylibhertBINGLEY/pokedex-web-app)**: <em>Pokedex web app that allows us to read, create, update and delete pokemons. I will soon improve the project.</em>
+- **[Pokedex Web App](https://github.com/PhylibhertBINGLEY/pokedex-web-app)**: <em>Pokedex web app that allows us to read, create, update and delete pokemons. I will soon improve the project.</em>  
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/-EJS-3F5B8A?style=flat&logo=github&logoColor=white" />
