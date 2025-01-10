@@ -78,6 +78,18 @@
    <img src="https://github-readme-stats.vercel.app/api?username=WheelsAndScripts&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="GitHub Stats" width="400"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WheelsAndScripts&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=WheelsAndScripts&show_icons=true&theme=radical&hide=prs,issues,contribs" alt="GitHub Stats" width="400"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WheelsAndScripts&theme=radical" alt="GitHub Contribution Graph" width="800"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=WheelsAndScripts&theme=radical" alt="GitHub Streak Stats" width="400"/>
+</p>
+
+
 ---
 
 ### 🌍 Languages
